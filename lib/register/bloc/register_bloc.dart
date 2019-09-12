@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:bloc/bloc.dart';
-import 'package:flutter_firebase_login/login/bloc/validators.dart';
 import 'package:flutter_firebase_login/register/bloc/register_event.dart';
 import 'package:flutter_firebase_login/register/bloc/register_state.dart';
+import 'package:flutter_firebase_login/validators.dart';
 import 'package:meta/meta.dart';
 import 'package:rxdart/rxdart.dart';
 import 'package:flutter_firebase_login/user_repository.dart';
